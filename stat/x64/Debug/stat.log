@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\Users\Razum\Рабочий стол\stat\stat\task2.cpp(88,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Razum\Рабочий стол\stat\stat\task2.cpp(220,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  stat.vcxproj -> C:\Users\Razum\Рабочий стол\stat\x64\Debug\stat.exe
